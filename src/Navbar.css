@@ -18,7 +18,7 @@
 .logo a {
   text-decoration: none;
   color: black;
-  
+
 }
 
 .slider {
@@ -47,4 +47,9 @@
   height: 13px;
   margin-left: -7px;
   margin-top: -3px;
+}
+
+.select-container {
+  margin-left: auto;
+  margin-right: 1rem;
 }
